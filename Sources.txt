@@ -1,0 +1,3 @@
+website link = https://www.ambitionbox.com/list-of-companies?page=1
+
+extarcting comp_name,ratings,no._of_reviews,Type(pulic/private),location,established_year,no._of_emp,tags associated.
